@@ -28,7 +28,30 @@ Pick a mood and genre, tap Magic, and get a musically coherent result in under 3
 
 ## Screenshots
 
-*Add your screenshots here*
+<p align="center">
+    <img src="screenshots/OnboardingSlide1.png" width="200" />
+    <img src="screenshots/OnboardingSlide2.png" width="200" />
+    <img src="screenshots/OnboardingSlide3.png" width="200" />
+ </p>   
+ 
+<p align="center">
+    <img src="screenshots/MusarView.png" width="200" />
+    <img src="screenshots/InspirationMagicResult.png" width="200" />
+    <img src="screenshots/KeyDetail.png" width="200" />
+    <img src="screenshots/ReferenceDetail.png" width="200" />
+</p>
+
+<p align="center">
+    <img src="screenshots/WhisperView.png" width="200" />
+    <img src="screenshots/InspirationWhisperResult.png" width="200" />
+    <img src="screenshots/LabelTheSession.png" width="200" />
+    <img src="screenshots/SavedView.png" width="200" />
+</p>
+
+<p align="center">
+  <img src="screenshots/SettingsView.png" width="200" />
+  <img src="screenshots/Darkmode.png" width="200" />
+</p>
 
 ---
 
