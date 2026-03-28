@@ -1,0 +1,23 @@
+# Xcode
+.DS_Store
+build/
+DerivedData/
+*.xcuserstate
+xcuserdata/
+*.xcworkspace/xcuserdata/
+
+# API Keys — never commit
+Secrets.swift
+
+# Swift Package Manager
+.build/
+Packages/
+
+# CocoaPods (if used later)
+Pods/
+
+# Misc
+*.hmap
+*.ipa
+*.dSYM.zip
+*.dSYM
