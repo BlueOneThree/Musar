@@ -30,31 +30,31 @@ Pick a mood and genre, tap Magic, and get a musically coherent result in under 3
 
 ### Onboarding
 <p align="center">
-  <img src="screenshots/OnboardingSlide1.png" width="200" />
-  <img src="screenshots/OnboardingSlide2.png" width="200" />
-  <img src="screenshots/OnboardingSlide3.png" width="200" />
+  <img src="Screenshots/OnboardingSlide1.png" width="200" />
+  <img src="Screenshots/OnboardingSlide2.png" width="200" />
+  <img src="Screenshots/OnboardingSlide3.png" width="200" />
 </p>
 
 ### Magic Flow
 <p align="center">
-  <img src="screenshots/MusarView.png" width="200" />
-  <img src="screenshots/InspirationMagicResult.png" width="200" />
-  <img src="screenshots/KeyDetail.png" width="200" />
-  <img src="screenshots/ReferenceDetail.png" width="200" />
+  <img src="Screenshots/MusarView.png" width="200" />
+  <img src="Screenshots/InspirationMagicResult.png" width="200" />
+  <img src="Screenshots/KeyDetail.png" width="200" />
+  <img src="Screenshots/ReferenceDetail.png" width="200" />
 </p>
 
 ### Whisper Flow
 <p align="center">
-  <img src="screenshots/WhisperView.png" width="200" />
-  <img src="screenshots/InspirationWhisperResult.png" width="200" />
-  <img src="screenshots/LabelTheSession.png" width="200" />
+  <img src="Screenshots/WhisperView.png" width="200" />
+  <img src="Screenshots/InspirationWhisperResult.png" width="200" />
+  <img src="Screenshots/LabelTheSession.png" width="200" />
 </p>
 
 ### Saved & Settings
 <p align="center">
-  <img src="screenshots/SavedView.png" width="200" />
-  <img src="screenshots/SettingsView.png" width="200" />
-  <img src="screenshots/DarkModeView.png" width="200" />
+  <img src="Screenshots/SavedView.png" width="200" />
+  <img src="Screenshots/SettingsView.png" width="200" />
+  <img src="Screenshots/DarkModeView.png" width="200" />
 </p>
 
 ---
